@@ -1,0 +1,492 @@
+.estilonavbar{
+    background-color:white;
+    display: flex;
+    width: 100%;
+}
+.nav-link{
+    color: #644434;
+}
+.navbar-brand{
+    color: #644434;
+}
+.navbar-brand:hover{
+    color: #a47056;
+}
+.dropdown-menu{
+    background-color: white;
+    color: #644434;
+}
+
+.dropdown-item{
+    color: #644434;
+}
+.dropdown-item:hover{
+    color: beige;
+    background-color: #644434;
+}
+.nav-link:hover{
+    color: #a47056
+}
+.nav-link:focus{
+    color: #644434;
+}
+.navbar-brand img{
+    text-align: justify;
+    padding-bottom: 5px;
+}
+.carousel-item img {
+    margin: auto; /* Para centrar las imágenes verticalmente */
+    object-fit: cover
+  }
+.carousel{
+    height: 10%;
+}
+.nav-item {
+    list-style: none;
+    text-decoration: none;
+}
+.abajo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 20px;
+    background-color: #644434;
+    color:beige;
+  }
+
+  .logo, .sobreus, .encuentranos {
+    text-align: center;
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 300px; /* Ajusta este valor según sea necesario */
+    list-style: none;
+  }
+.fondo{
+    background-color:rgb(255, 245, 234);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.contcont{
+    background-color: rgb(255, 245, 234);
+    padding: 10%;
+}
+.btn{
+    background-color: #644434;
+    color: beige;
+    font-size: small;
+    border: #644434;
+}
+.li:hover{
+    color: rgb(255, 245, 234);
+}
+.prueba1{
+    text-align: center;
+    padding: 100px;
+    height: auto;
+    color: #644434;
+    background-color: white;
+    padding-bottom: 80px;
+    width: 98.5%;
+}
+.prueba2{
+    text-align: center;
+    padding: 50px;
+    padding-top: 1%;
+    height: auto;
+    justify-content: center;
+    color: #644434;
+    background-color: white;
+    width: 98.5%;
+}
+.prueba3{
+    text-align: center;
+    padding: 50px;
+    padding-top: 0%;
+    height: auto;
+    justify-content: center;
+    color: #644434;
+    background-color: white;
+    width: 98.5%;
+    padding-bottom: 5%;
+}
+
+.contenedor1{
+    float: left;
+    width: 20%;
+    height: auto;
+    justify-content: center;
+}
+.contenedor2{
+    float: left;
+    width: 20%;
+    height: auto;
+    justify-content: center;
+}
+.contenedor3{
+    float: left;
+    width: 20%;
+    height: auto;
+    justify-content: center;
+}
+.contenedor4{
+    float: left;
+    width: 20%;
+    height: auto;
+    justify-content: center;
+}
+.ejcom1{
+    float: left;
+    width: 20%;
+    height: auto;
+    justify-content: center;
+}
+.ejcom2{
+    float: left;
+    width: 20%;
+    height: auto;
+    justify-content: center;
+}
+.ejcom3{
+    float: left;
+    width: 20%;
+    height: auto;
+    justify-content: center;
+}
+.ejcom4{
+    float: left;
+    width: 20%;
+    height: auto;
+    justify-content: center;
+}
+.ejcom5{
+    float: left;
+    width: 20%;
+    height: auto;
+    justify-content: center;
+}
+.ejcom6{
+    float: left;
+    width: 20%;
+    height: auto;
+    justify-content: center;
+}
+.ejcom7{
+    float: left;
+    width: 20%;
+    height: auto;
+    justify-content: center;
+}
+.ejcom8{
+    float: left;
+    width: 20%;
+    height: auto;
+    justify-content: center;
+}
+.card-img-top {
+    height: 200px; 
+    object-fit: cover;
+  }
+.row{
+    justify-content: center;
+}
+.logos{
+    background-color: transparent;
+    border: none;
+    text-align: center;
+}
+.logos img{
+    max-width: 90%;
+    margin: auto;
+}
+.logos:hover{
+    color: rgb(255, 245, 234);
+}
+@media (max-width: 768px) {
+    .logos img {
+      max-width: 100%; /* Las imágenes ocuparán el ancho completo del contenedor */
+      height: auto; /* La altura se ajustará automáticamente para mantener la proporción */
+    }
+  }
+.primero{
+    text-align: right;
+    height: 30px;
+    padding-right: 5%;
+    color: #644434;
+    background-color: white;
+}
+.logito{
+    width: 10%;
+    float: left;
+    background-color: white;
+}
+.a{
+    text-decoration: none;
+    color: rgb(255, 245, 234);
+}
+.a:hover{
+    color: bisque;
+}
+.b{
+    text-decoration: none;
+    color: #644434;
+}
+.b:hover{
+    color: bisque;
+}
+.prueba4{
+    background-color: white;
+    width: 80%;
+    text-align: center;
+    padding: 50px;
+    margin: auto;
+    color: #644434;
+}
+.boton{
+    color: rgb(255, 245, 234);
+    background-color: #644434;
+}
+.boton:hover{
+    color: bisque;
+    background-color: #644434;
+}
+.form-control{
+    color: #644434;
+}
+.form-select{
+    color: #644434;
+}
+.menu-carrito{
+    text-align: center;
+}
+
+.cofre-pequeno{
+    text-align: center;
+}
+
+.titulo-mediano{
+    text-align: center;
+}
+.personalizado{
+    text-align: center;
+    color: #644434;
+    background-color: white;
+    width: 80%;
+    margin: auto;
+}
+
+.form-pers{
+    background-color: white;
+    width: 80%;
+    margin-left: 14px;
+    padding: 25px;
+    padding-top: 0;
+    margin: auto;
+}
+.btn:active,
+.btn:focus {
+    color: bisque;
+    background-color: #644434;
+    box-shadow: 0 0 0 0.2rem #a47056; 
+    border-color: #a47056;
+    outline: none;
+}
+.btn:hover{
+    color: bisque;
+    background-color: #644434;
+}
+.container1{
+    background-color: white;
+    width: 98%;
+    padding-bottom: 0px;
+    color: #644434;
+    margin: auto;
+    text-align: center;
+    padding: 2%;
+}
+.container2{
+    color: #644434;
+    background-color: white;
+    margin: auto;
+    width: 98%;}
+
+.bg-body-tertiary{
+    color: #644434;
+    background-color: white;
+    width: 98%;
+    margin: auto;
+}
+.container3{
+    color: #644434;
+    background-color: white;
+    margin: auto;
+    padding: 10px;
+    width: 98%;
+    }
+
+.my-0{
+    color: #644434; 
+}
+.text-muted {
+    color: #644434 
+}
+.text-primary{
+    color: #644434;
+}
+.row{
+    color: #644434;
+    text-align: left;
+}
+.row2{
+    color: #644434;
+    text-align: left;
+}
+.mb-3{
+    text-align: left;
+}
+.container5{
+    color: #644434;
+    background-color: white;
+    padding: 10px;
+    width: 98%;
+    margin: auto;
+    text-align: center;
+}
+.container6{
+    color: #644434;
+    background-color: white;
+    margin: auto;
+    padding: 10px;
+    width: 98%;
+    padding-bottom: 50px;
+}
+.container7{
+    color: #644434;
+    background-color: white;
+    margin: auto;
+    padding: 10px;
+    width: 98%;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.conteiner{
+    width: 98%;
+    text-align: center;
+    color: #644434;
+    background-color: white;
+}
+.div1,
+.div2 {
+    padding: 70px;
+    text-align: justify;
+}
+
+.div3 img {
+    max-width: 100%;
+    padding-left: 25%;
+}
+.div5,
+.div6 {
+    text-align: justify;
+    padding: 30px;
+}
+.div4 img {
+    max-width: 100%;
+    padding-left: 25%;
+}
+.div9,
+.div11 {
+    padding: 40px;
+    text-align: justify;
+    padding-left: 50px;
+}
+.div7 img{
+    text-align: left;
+    max-width: 100%;
+    padding-left: 25%;
+}
+.fondoo{
+    background-color: white;
+    width: 98%;
+    margin: auto;
+}
+.c{
+    text-decoration: none;
+    color: #644434;
+    text-align: center;
+    margin: auto;
+}
+.c:hover{
+    color: bisque;
+}
+.registro{
+    background-color:rgb(255, 245, 234);
+    width: 98%;
+    color: #644434;
+    margin: auto;
+    text-align: center;
+}
+.conteinerr{
+    background-color: white;
+    width: 98% ;
+    margin: auto;
+    color: #644434;
+    text-align: center;
+}
+.section1{
+    width: 98%;
+    margin: auto;
+    background-color: white;
+    text-align: center;
+}
+.form-label{
+    text-align: left;
+}
+.finale{
+  text-align: center;  
+}
+.text-primary {
+    color: #644434;
+}
+.badge.bg-primary {
+    background-color: #644434 !important;
+    color: white; 
+}
+.form-check-input:checked {
+    background-color:#644434; 
+    border-color: #644434;
+    box-shadow: 0 0 0 0.2rem #a47056;
+}
+
+.navbar-toggler{
+    color: #644434;
+}
+.togglercito{
+    color: #644434;
+    align-self: center;
+}
+.mensajeerror{
+    background-color: #d27559;
+    text-align: center;
+    display: none;
+}
+.mensajeerror-activo{
+    display: block;
+}
+.invalid-feedback,
+.invalid-feedback2,
+.invalid-feedback3,
+.invalid-feedback4,
+.invalid-feedback5,
+.invalid-feedback6,
+.invalid-feedback7,
+.invalid-feedback8,
+.invalid-feedback9,
+.invalid-feedback10,
+.invalid-feedback11,
+.invalid-feedback12,
+.invalid-feedback13
+ {
+    color: #d27559;
+    text-align: center;
+    display: none;
+}
